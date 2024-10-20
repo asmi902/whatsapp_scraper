@@ -1,0 +1,7 @@
+{
+    "venvPath": "<path-to-your-virtual-environments>",
+    "venv": "<your-venv-name>",
+    "pythonVersion": "3.10",
+    "pythonPlatform": "Linux"
+  }
+  
